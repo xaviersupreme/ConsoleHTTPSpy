@@ -2,8 +2,8 @@
 Luau HTTP Spy
 
 ### Hooks:
-- game:HttpGet (And it's asynchronous version),
-- game:HttpPost (And it's asynchronous version),
+- game:HttpGet (And it's asynchronous version)
+- game:HttpPost (And it's asynchronous version)
 - request()
 - May add websocket hooks soon
 
